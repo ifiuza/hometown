@@ -15,7 +15,7 @@ body {
 }
 
    #hero {
-    background-image: url(https://public.dm.files.1drv.com/y4myvpswITTxIAUAp9C7Xx23nKaQS2CqR9MLhr-BTUDb7rGr20MUBJdsFPeF4RXecX2wfOw4HyzG5I5LNw-oF0LqY-EABjItCg8VXqey7mBW2ymuMbgThQIQJK0FkQjKLsC2sobRtvG5ds9AM3tx4pVmzLP8D1keINoXfqi4AuggRr44T6N7gciMpia4jMxTO3K0M4mMG046y9GnCEKJyIAz7ixzbvHY8rwz5IcmPkXySY);
+    background-image: url(images/fortaleza.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,20 +27,6 @@ body {
     margin: 4px;
 }
 
- #hero:hover {
-    background-image: url("images/fortaleza.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 100px 0 100px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 4% 4% 0 0 ;
-    margin: 4px;
-}
-
- 
 
 #visit-header{
     background: #457B9D;
@@ -88,8 +74,8 @@ body {
     border-radius: 29%;
     background-size: cover;
     background-position: center;
-    background-image: url(https://dp0rksi384o97.cloudfront.net/exports/2cf0f117-22d7-4424-9ba7-8431e1ed4dcd.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2RwMHJrc2kzODRvOTcuY2xvdWRmcm9udC5uZXRcL2V4cG9ydHNcLzJjZjBmMTE3LTIyZDctNDQyNC05YmE3LTg0MzFlMWVkNGRjZC5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODUzMDI5MjJ9fX1dfQ__&Signature=ltBksx~QDQ3PyoKCfDwp-rGGYfqBdkE76gnCPHuXmnJz9Fa9a7RoIrZwzio01X5QUtH3YtCOl49lnOVEDR4i-YPUg000xj3etThoIvvZe3oIR77Ujau35ZSVEbGUIO-~bbSDWShga2MAegI~xLskOtJn3Vg~nJ6YB-NotTJPmnG~VMIe70RUlD7zrNYmSzCLwvwiJdrGunhmVUmeEu5J77jlsBp8Fpy3Y3IPlItLgrjwl45GKV95N9XzJZHeQlsiic1cDU805T4zsjcEk6TAz0rMdzt-QrNqxx-N61b2eH-sSVLytkKOpbIaZjq4jCsxHKmv7FOkqj0KFo4cI29Jfw__&Key-Pair-Id=APKAIWQDLHITBKTFWBJA)
-	}
+    background-image: url(https://public.dm.files.1drv.com/y4md7TzH5NpbAZVBF5-9rtu8tf3VaduxQdHHXMySUzY6p2GMiDeCEDWA9II_UU2mvPDRSUsotRpD1bllahzwdGo_p4LgGcN35XcKLVJiBqHR_Axn9P1xLhp2OH3DXkugRpvMcQZh5tNAHIWVnjJcq8Fx-fA7pilzStkHQ6Yh6VVG6TRrYpufN4fUvUsTAT69MnPwcYt149nyekDvJ-2Xv0s8bQDTg6HhGcP0ig-kJB0DnU);
+}
 
 
 
@@ -107,8 +93,8 @@ body {
     border-radius: 29%;
     background-size: cover;
     background-position: center;
-	background-image: url(https://dp0rksi384o97.cloudfront.net/exports/8ebb511e-e5c0-481b-bbcf-fc20888e58c0.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2RwMHJrc2kzODRvOTcuY2xvdWRmcm9udC5uZXRcL2V4cG9ydHNcLzhlYmI1MTFlLWU1YzAtNDgxYi1iYmNmLWZjMjA4ODhlNThjMC5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODUzMDI5MjJ9fX1dfQ__&Signature=j672Rag6IqZQwiVHQSOWL8norJQc14vPfH4CFBrPzoh4QrZdo-KHobE4Vgc7Aia4tcx8YgMXZjcX4C3tvOP3t-t5IEk0Ws5TaoicF7qr8Hf~7~~BMEIYL4v6FHGTuOaIWHvyM14Kz-NlMRXA2RWAOViZR0tOxdhKFkv8opbqgRQCo~fROFsXb-zkI0qKYUcTVwaqB2FtuUWFd6lQkmO4Q4wyj3hdPkIO9fKtDHw~bYvwevGfB0A8bGGGABOr4lOg4AXNc2F7x9CIuaOKoUvjNoqE~4uu75GWkyY7DEcJC~3QWa5QioWJHvVYkO-C5~Jpu7X5lMSlfe5lwt0leJg4~w__&Key-Pair-Id=APKAIWQDLHITBKTFWBJA)
-  }
+    background-image: url(https://public.dm.files.1drv.com/y4m8Ke361ud5_TrpA_4l4z7KeBJlPpdV6BSxLvyWTtAfK6Rsf6YqkVqU4P2CY-_oHUyt9INhbN1qQHeQjQ-LPuAR7PX4CcEJ-7HBgf2CmmYt1BurgoXmFqdMNztPwFIf9ygcoLMXK--CwclBfEGENbfFrOTgMRy9J6vNR28gPbSnmsAKgmLRBO5Ff__2KjeQb_wGL9cTMMOSu9Y3aV_Pw23wW_o0VBYjOiyTOWIsFvypbE);
+}
 
 #jericoacoara {
     width:200px;
@@ -124,7 +110,7 @@ body {
     border-radius: 29%;
     background-size: cover;
     background-position: center;
-	background-image: url("https://dp0rksi384o97.cloudfront.net/exports/726775ad-cc6d-4c25-941e-935acb0737f3.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2RwMHJrc2kzODRvOTcuY2xvdWRmcm9udC5uZXRcL2V4cG9ydHNcLzcyNjc3NWFkLWNjNmQtNGMyNS05NDFlLTkzNWFjYjA3MzdmMy5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODUzMDI5MjJ9fX1dfQ__&Signature=R2CJIiMeTmBbdZIqMYOVkpsfNq1OyKwWxFz~NMeCxZbnJ8New7sYUikR7zm9TPtDYmaMgdIHJfYWiFrmgHjh8PXBvkUNOKI90Oy1GwUz-07hPhMeb-5nUbuc9H0EiMBCdY3AJs6AvMRZilFHLZJyTHCEm4Wjyr78W8nlX4uhlY6v0nJ~aRrJ7QP91D4knIrIdaIRzrMOeVeo8bfR7vtv2nzf0LVFpnZk1CEVNlb~fJ7ttG2uCO6OIzd5QGUA7DCsgxmSktE630CfRrv~oZATi9MPytZjlmEeDWOyjQAjU0FU1rFVtvRPkCrahK6psN4i39g4lZGUez-IdBgixgu8Ig__&Key-Pair-Id=APKAIWQDLHITBKTFWBJA");  
+    background-image: url(https://public.dm.files.1drv.com/y4mWnqtMRqI24cbA82-7sobmpypSpFMJ2Gwa5D7Lz2yf5DXECG0dDXQ_PLJP2sjG12AWz4c1AwW7GY3hD-idUlYpMwmb5Cdyl6IpebCYAom-3oquUD0yq8NcWK3akD6812QiGJJlmTD13daEaScZ3-nVXBt8Tw_vtqCjeDXNimKMHdXgtl_XzGPmHHrkOmZy3Vc6GpN4jMrDTx87PfkEabvLLXKRDLZL84_4j0MBLdMmTU);
 }
 
 
